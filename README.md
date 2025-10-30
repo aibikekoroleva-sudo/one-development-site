@@ -4,7 +4,7 @@ This repository contains the website for **One Development Company**.
 
 ## Live Site
 
-You can visit the live site here: [https://aibikeproject.one](onedevsite-dnvdwzxb.manus.space)
+You can visit the live site here: [https://aibikeproject.one](aibikeproject.one)
 Public IP: `20.174.162.206`
 
 ## Deployment
